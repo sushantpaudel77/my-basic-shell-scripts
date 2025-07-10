@@ -13,7 +13,7 @@ This repo contains clean, structured bash scripts for learning, practicing, and 
 | `awk-usage.sh`      | Real-world AWK command examples  |
 | `network-tools.sh`  | Networking tools and commands    |
 
-🧠 Use this as your Bash playground or revision sheet.
+🧠 Use this as your Bash playground or revision sheet
 📦 How to Make Scripts Executable
 
 Run once for each:
